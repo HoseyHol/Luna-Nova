@@ -1,0 +1,10 @@
+google-generativeai
+speechrecognition
+pyaudio
+piper-tts
+face-recognition
+opencv-python
+numpy
+pyvrm
+aiohttp
+Pillow
